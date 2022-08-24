@@ -1,0 +1,9 @@
+#dog-image-container {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+#dog-image-container > img {
+  width: 80%;
+  border-radius: 10px;
+}
